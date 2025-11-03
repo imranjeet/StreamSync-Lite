@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "716690815307",
+    "project_id": "streamsync-d6df1",
+    "storage_bucket": "streamsync-d6df1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716690815307:android:a127e3c24b3bf68bf490ce",
+        "android_client_info": {
+          "package_name": "com.app.streamsync_lite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHcsvysYlzl8JeQ9MtQ72785vFtLes068"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
