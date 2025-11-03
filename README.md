@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The app displays the latest 10 videos from a public YouTube channel, supports offline-first behavior, push notifications, and a Test Push area in Profile.
+The app displays the latest 10 videos from a public YouTube channel, push notifications, and a Test Push area in Profile.
 
 ### DEMO
 - **Demo APK link:** https://drive.google.com/file/d/15ps1YN-YTkHBcdKkOeLiE9GEei2_ABnu/view?usp=sharing  
@@ -12,7 +12,7 @@ The app displays the latest 10 videos from a public YouTube channel, supports of
 ▶️ [Click to watch video](./video.mp4)
 
 ### Tech Stack
-- **Frontend:** Flutter (MVVM + BLoC), Drift/ObjectBox/Hive for local storage  
+- **Frontend:** Flutter (MVVM + BLoC), Hive for local storage  
 - **Backend:** Node.js + TypeScript (NestJS)  
 - **Database:** Vercel Neon (Postgres)  
 - **Push Notifications:** Firebase Admin SDK  
@@ -178,8 +178,8 @@ The app displays the latest 10 videos from a public YouTube channel, supports of
 ### Architecture Diagram
 
 <div style="display: flex; justify-content: space-between;">
-   <img src="./frontend_architecture.png" width="250" />
-   <img src="./backend_architecture.png" width="250" />
+   <img src="./frontend_architecture.png" width="300" />
+   <img src="./backend_architecture.png" width="300" />
 </div>
 
 ```
